@@ -1,0 +1,15 @@
+Metadata-Version: 1.0
+Name: github-pipenv-package-example
+Version: 0.1.0
+Summary: This is a simple demonstration of hosting a Python package on Github
+Home-page: https://github.com/chrisguest75/github_pipenv_package_example
+Author: Chris Guest
+Author-email: chris@chrisguest.dev
+License: LICENSE.txt
+Description: # README.md
+        This is a simple demonstration of hosting a Python package on Github
+        
+        You can see an example of using it here (github_pipenv_client)[https://github.com/chrisguest75/github_pipenv_client]
+        
+        
+Platform: UNKNOWN

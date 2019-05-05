@@ -1,0 +1,8 @@
+README.md
+setup.py
+github_pipenv_package_example/__init__.py
+github_pipenv_package_example/sample_class.py
+github_pipenv_package_example.egg-info/PKG-INFO
+github_pipenv_package_example.egg-info/SOURCES.txt
+github_pipenv_package_example.egg-info/dependency_links.txt
+github_pipenv_package_example.egg-info/top_level.txt
